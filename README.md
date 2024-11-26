@@ -17,7 +17,29 @@ This repository contains analysis and visualization of the ENCORE dataset. It wa
 
 ## Instructions
 
-Clone the repository
+### Clone the repository
 
 ```
-git clone
+git clone https://github.com/specialprocedures/global-canopy.git
+```
+
+### Install dependencies
+
+```
+pip install plotly statsmodels pandas
+```
+
+### Open the notebook in the editor of your choice
+
+```
+# e.g., with vscode
+
+code explore.ipynb
+```
+
+## Contact
+If you have any trouble reproducing the analysis, please feel free to reach out for support.
+
+Kind regards,
+
+Ian
